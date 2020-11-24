@@ -1,0 +1,50 @@
+.bg{
+    background-color:#DAE0E2 !important ;
+    font-weight: 500;
+    font-family: 'Marcellus', serif;
+}
+
+.container{
+    margin-top: 100px;
+}
+
+.svg-png{
+    width: 100%;
+    height: 100%;
+}
+
+.form-style{
+    box-shadow: 0 22.3px 17.9px rgba(0.06, 0, 0.06, 0.172)
+}
+form{
+    border-radius: 0px 0px 5px 5px;
+}
+.form-header {
+    background-color: #2F363F;
+    border-radius: 5px 5px 0px 0px;
+}
+
+h2{
+    color: white;
+    font-family: 'Cookie', cursive;
+    text-align: center;
+}
+
+input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 90%;
+    left: 5%;
+    position: relative !important;
+    text-align:center; 
+    padding-top: 25px;
+}
+
+.btn {
+    background-color: #2F363F !important;
+    color: white !important;
+    margin: 0;
+    left: 45%;
+    position: relative !important;
+}
